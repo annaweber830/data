@@ -1,0 +1,5 @@
+lxc-focal.part1.rar filter=lfs diff=lfs merge=lfs -text
+lxc-focal.part2.rar filter=lfs diff=lfs merge=lfs -text
+lxc-focal.part3.rar filter=lfs diff=lfs merge=lfs -text
+lxc-focal.part4.rar filter=lfs diff=lfs merge=lfs -text
+lxc-focal.part5.rar filter=lfs diff=lfs merge=lfs -text
